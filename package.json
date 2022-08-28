@@ -1,11 +1,11 @@
 {
-  "name": "viper-cli",
+  "name": "viper-create-cli",
   "version": "1.0.0",
   "description": "viper-cli",
   "main": "index.js",
   "bin": {
     "viper-cli": "index.js"
-},
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
